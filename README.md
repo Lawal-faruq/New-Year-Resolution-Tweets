@@ -15,5 +15,4 @@ So, i will be using the NYC dataset to answer the above mentioned problems. The 
 ## Data Cleaning
 The records have it that over 60% of time in Data Analysis is spent on Data Cleaning. Data cleansing, also referred to as data cleaning or data scrubbing, is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in a data set. It involves identifying data errors and then changing, updating or removing data to correct them. So i will put you through the process i went in cleaning up the dataset.
 
-### Separating the tweet created column so we can have the date and time in the separate columns.
-![]
+### Separating the "tweet created" column so we can have the date and time in the separate columns.
