@@ -9,4 +9,5 @@ This project is all about New Year Resolution tweets in United state for the yea
 - Which state has the highest number of tweets?
 - Which gender tweet the most?
 - Using map to visualize which US state teweeted the highest number of NYE resolutions?
+
 So, i will be using the dataset to answer the above mentioned problems. The dataset contains 4723 rows and 10 columns, the headers of the dataset are Tweeet created, tweet text, tweet categories, tweet topics, tweet location, tweet state, tweet region, user timezone, user gender and retweet count.
